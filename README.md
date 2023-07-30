@@ -3,18 +3,15 @@
 Created an ETL pipeline using the open-source data pipeline tool called Mage. The pipeline is designed to process and analyze data stored in a GCP Bucket. We use Google Cloud Storage (GCS) to store the raw data, Compute Engine (VM/SSH Instance) to run Mage, and BigQuery to store the transformed data for analysis. Finally, we utilize Looker Studio to create an interactive dashboard for data visualization and insights.
 
 
-Technology Used
+Technology Used:-
 
 Programming Language - Python
 
 GCP
 
 Cloud Storage Bucket
-
 Compute Instance
-
 BigQuery
-
 Looker Studio
 
 Mage - Data Pipeline Tool
