@@ -9,7 +9,6 @@ Programming Language - Python
 
 
 GCP
-
 1. Cloud Storage Bucket<br>
 2. Compute Instance
 3. BigQuery
