@@ -9,10 +9,10 @@ Programming Language - Python
 
 GCP
 
-Cloud Storage Bucket
-Compute Instance
-BigQuery
-Looker Studio
+1. Cloud Storage Bucket<br>
+2. Compute Instance
+3. BigQuery
+4. Looker Studio
 
 Mage - Data Pipeline Tool
 
