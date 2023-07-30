@@ -1,7 +1,8 @@
 # uber-data-project
 
 Architecture
-![image](https://github.com/naijilnj/uber-data-project/assets/110610851/e1f01cdf-be70-49e8-9e24-f22559996180)
+![image](https://github.com/naijilnj/uber-data-project/assets/110610851/7a7c1d56-8148-4be8-a7f1-35315e787fe7)
+
 Mage is an open-source data pipeline tool for transforming and integrating data.
 
 Data Model
@@ -9,6 +10,7 @@ Data Model
 
 
 ETL Pipeline - Mage
+
 ![image](https://github.com/naijilnj/uber-data-project/assets/110610851/83f68573-58a1-4262-a9fa-bd8a73e1cba2)
 
 
