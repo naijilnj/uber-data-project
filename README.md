@@ -8,12 +8,17 @@ Technology Used
 Programming Language - Python
 
 GCP
+
 Cloud Storage Bucket
+
 Compute Instance
+
 BigQuery
+
 Looker Studio
 
 Mage - Data Pipeline Tool
+
 (Mage is an open-source data pipeline tool for transforming and integrating data.)
 
 Architecture
