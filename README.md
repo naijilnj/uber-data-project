@@ -4,6 +4,7 @@ Created an ETL pipeline using the open-source data pipeline tool called Mage. Th
 
 
 Technology Used
+
 Programming Language - Python
 
 GCP
