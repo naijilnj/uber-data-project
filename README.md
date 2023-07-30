@@ -28,11 +28,13 @@ Data Model
 
 ![image](https://github.com/naijilnj/uber-data-project/assets/110610851/b66f716d-bc96-47f4-b02f-d8d06a7b7b2e)
 
-Link to view the Dashboard - https://lookerstudio.google.com/reporting/f922747e-379a-43cd-8c0e-18182c1b50c9
 
 
 ETL Pipeline - Mage
 
 ![image](https://github.com/naijilnj/uber-data-project/assets/110610851/83f68573-58a1-4262-a9fa-bd8a73e1cba2)
+
+
+Link to view the Dashboard - https://lookerstudio.google.com/reporting/f922747e-379a-43cd-8c0e-18182c1b50c9
 
 
